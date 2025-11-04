@@ -104,7 +104,7 @@ function Countrymap({isConvertComp}) {
           {currencyToCountry[currentCurrency]}
         </p>
         <ArrowDownIcon
-          className="w-6 h-6"
+          className="w-6 h-6 text-white"
           onClick={() => setIsModalOpen(!isModalOpen)}
         />
       </div>
