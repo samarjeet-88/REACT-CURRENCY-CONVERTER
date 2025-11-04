@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <CurrencyProvider>
-        <div className="h-screen  w-screen bg-[#102500] flex flex-col items-center relative text-center">
+        <div className="min-h-screen  w-screen bg-[#102500] flex flex-col items-center relative text-center">
           <h1 className="text-[#8ED164] mt-10 font-bold font-poppin text-4xl">
             CURRENCY CONVERTER
           </h1>
